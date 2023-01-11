@@ -4,7 +4,7 @@
 
 -->
 
-# Heya, I'm Jacob. 
+# Heya, I'm Jacob !
 
 ### After many deep dives I've found myself in possession of many hats, like Frontend / Backend Software Engineer, Recording / Performing Musician, and Teacher.
 
