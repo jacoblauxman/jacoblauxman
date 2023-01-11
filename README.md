@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on any music / music education or other arts-related projects (other project spaces are welcome too 🤠)
 - 🤔 I’m looking for help with GraphQL and other database query languages/frameworks to further my understanding of data management and relationships
 - 💬 Ask me about the parallels and patterns between programming and music
-- 📫 How to reach me: [email](jlauxman@gmail.com)  [Linkedin](https://www.linkedin.com/in/jacob-lauxman-a3170b261/) 
-- ⚡ Fun fact: Cat Dad
+- 📫 How to reach me: [EMAIL](jlauxman@gmail.com)  ||  [Linkedin](https://www.linkedin.com/in/jacob-lauxman-a3170b261/) 
+- ⚡ Fun fact: Proud Cat Dad
 
 <!--
 **jacoblauxman/jacoblauxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
