@@ -1,5 +1,5 @@
 ## Heya, I'm Jacob. 
-#### After many deep dives I've found myself wearer of many hats, like Frontend / Backend Software Engineer, Recording / Performing Musician, and Teacher.
+#### After many deep dives I've found myself in possession of many hats, like Frontend / Backend Software Engineer, Recording / Performing Musician, and Teacher.
 
 - 🔭 I’m currently working on finishing up several solo full stack web apps, and looking to collaborate on more web app projects
 - 🌱 I’m currently learning full stack web development with an emphasis on React / Redux frontend
