@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Jacob. I like to wear hats, such as Software Engineer, Recording / Performing Musician, and Music Instructor.
+## Heya, I'm Jacob. 
+### After many deep dives I've found myself wearer of many hats, like Frontend / Backend Software Engineer, Recording / Performing Musician, and Teacher.
 
 <!--
 **jacoblauxman/jacoblauxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
