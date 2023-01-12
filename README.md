@@ -20,3 +20,7 @@
 ### A little bit more about me:
 
 *I’ve been a performing musician and music instructor for the last 10+ years, and have now dove deep into the software development field after the recommendation from some like-minded and well regarded musicians and friends within my circles. I’ve noted and grown to love the parallels between programming and music as languages with varying ‘dialects’ as well as the use of theory/methods and inner working logic used to organically produce unique creative endeavors. After spending the past half a year or more focusing on Javascript, Python, React.js / Redux.js, Flask, HTML5 / CSS3 and applying said languages to several solo and group full stack web projects, I’m ready to head into the next venture of coding and further the depths of my skills. I am looking for the opportunity to expand my overall knowledge in the field while still given ample opportunity to apply and hone my current abilities. I'd love to contribute to any organized and supportive team developing intuitive and well thought projects, especially those related to music, the arts or educational spaces.*
+
+
+
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacoblauxman)](https://github.com/anuraghazra/github-readme-stats)
