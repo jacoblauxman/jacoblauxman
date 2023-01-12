@@ -8,7 +8,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heya,+I'm+Jacob.)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=54&pause=2000&color=457161&vCenter=true&width=600&height=125&lines=Heya%2C+I'm+Jacob.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=54&pause=2000&color=457161&vCenter=true&width=600&height=125&lines=Heya%2C+I'm+Jacob.)](https://git.io/typing-svg)
 
 ### After many deep dives I've found myself in possession of many hats, like Frontend / Backend Software Engineer, Recording / Performing Musician, and Teacher.
 
