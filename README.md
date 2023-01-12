@@ -6,6 +6,9 @@
 
 # Heya, I'm Jacob.
 
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heya,+I'm+Jacob.)](https://git.io/typing-svg)
+
+
 ### After many deep dives I've found myself in possession of many hats, like Frontend / Backend Software Engineer, Recording / Performing Musician, and Teacher.
 
 ### Where I'm at:
