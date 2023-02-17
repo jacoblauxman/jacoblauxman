@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=54&pause=2000&color=457161&vCenter=true&width=600&height=125&lines=Heya%2C+I'm+Jacob.)](https://git.io/typing-svg)
 
-### I'm a Software Engineer, Recording / Performing Musician, and Teacher.
+### I'm a Software Engineer, Musician, and Teacher.
 
 ### Where I'm at:
 - 🛠️ I’m currently working on finishing up several solo full stack web apps, and looking to collaborate on more web app projects
