@@ -25,7 +25,7 @@
 
 
 
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacoblauxman&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacoblauxman&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [![Jacob's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jacoblauxman&show_icons=true&theme=green)](https://github.com/anuraghazra/github-readme-stats) -->
